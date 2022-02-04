@@ -3,6 +3,8 @@ layout: default
 title: "Home"
 ---
 
-I’m Pelin Durmaz, currently enrolled in MSc in Media Technology. 
-Focus Area: Audio Applications. 
-Goal: Gain experience in Machine Listening
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
