@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me"
+title: ""
 ---
 Candidate of MSc in Media Technology
 
