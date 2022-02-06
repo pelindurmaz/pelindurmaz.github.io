@@ -15,10 +15,11 @@ minimal: true             # use a dark header
 
 # Menu
 
-#navigation:                # accepts {file, title, url, icon, sidebaricon}
-#  - {file: "Lebenslauf.pdf" }
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "projects.md", title: "Projects"}
+  - {file: "/Lebenslauf.pdf", title: "About Me" }
 #  - {file: "index.md", title: "About Me"}
-#  - {file: "projects.md", title: "Projects"}
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:pelin.durmaz@tu-ilmenau.de"}
