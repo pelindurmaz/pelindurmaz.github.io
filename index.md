@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: " "
 ---
 Candidate of MSc in Media Technology
 
