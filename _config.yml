@@ -1,7 +1,7 @@
 title: "Pelin Durmaz"
 author: "Pelin Durmaz"
 description: "TU Ilmenau"
-permalink: /:title/
+#permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
